@@ -1,6 +1,6 @@
 # 📌 Desafio Técnico - Funcional de Sistemas
 
-Bem-vindo ao repositório do desafio técnico para a vaga de **Funcional de Sistemas**. Este documento apresenta a solução desenvolvida, incluindo a abordagem adotada, a estrutura do projeto e as instruções para baixar.
+Bem-vindo ao repositório do desafio técnico para a vaga de **Funcional de Sistemas**. Este documento apresenta a solução desenvolvida, incluindo a abordagem adotada, a estrutura do projeto e as instruções para baixar. Foi me dado 7 dias para desenvolver ao mesmo tempo que consiliava outras áreas.
 
 ## 🎯 Objetivo do Desafio
 
